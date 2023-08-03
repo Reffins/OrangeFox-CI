@@ -22,7 +22,7 @@ DEPS=(
 )
 
 # Extra Command
-export EXTRA_CMD="export OF_MAINTAINER=Reffins"
+export EXTRA_CMD="export OF_MAINTAINER=Ngtc233"
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
