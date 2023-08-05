@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_7.1"
-export DT_LINK="https://github.com/Ngtc233/android_device_oppo_r9s.git -b android-7.1"
+export FOX_BRANCH="fox_9.0"
+export DT_LINK="https://github.com/Ngtc233/android_device_oppo_r9s_test.git -b main"
 
 export DEVICE="R9s"
 export OEM="oppo"
@@ -22,7 +22,7 @@ DEPS=(
 )
 
 # Extra Command
-export EXTRA_CMD="export OF_MAINTAINER=Reffins"
+export EXTRA_CMD="export OF_MAINTAINER=Ngtc233"
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
