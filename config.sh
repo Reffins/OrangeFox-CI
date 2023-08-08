@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://github.com/Ngtc233/android_device_oppo_r9s_test.git -b main"
+export DT_LINK="https://github.com/Ngtc233/android_device_oppo_r9s_new.git -b main"
 
 export DEVICE="R9s"
 export OEM="oppo"
